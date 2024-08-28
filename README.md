@@ -1,6 +1,4 @@
-Here's the updated GitHub description with a "Technologies Used" section:
 
----
 
 ## Video Upload & Playback Platform (Proof of Concept)
 
